@@ -50,4 +50,4 @@ This project showcases a robust implementation of various networking technologie
 
 ## Topology:
 
-![Screenshot 2024-06-24 182726](https://github.com/pnsudhanva/Advanced-Enterprise-Network/assets/14261453/4b0ce720-ab5b-4dc4-aece-369cd662162a)
+![Screenshot 2024-06-30 021118](https://github.com/pnsudhanva/Advanced-Enterprise-Network/assets/14261453/d434c094-dc44-4350-981c-b66c8aad9672)
